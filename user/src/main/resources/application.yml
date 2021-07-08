@@ -1,0 +1,14 @@
+server:
+  port: 9001
+
+spring:
+  application:
+    name: USER
+  
+    
+
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: Hotel
